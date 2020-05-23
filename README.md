@@ -1,6 +1,6 @@
 # UMind
 
-[![umind compliant](https://img.shields.io/badge/running-jre1.8-green)]((https://github.com/xk-wang/test))[![umind compliant](https://img.shields.io/badge/bulid-jdk1.8-blue)]((https://github.com/xk-wang/test))[![umind compliant](https://img.shields.io/badge/ide-eclipse-yellow)]((https://github.com/xk-wang/test))[![umind compliant](https://img.shields.io/badge/license-MIT-orange)]((https://github.com/xk-wang/test))
+[![umind compliant](https://img.shields.io/badge/running-jre1.8-green)]((https://github.com/xk-wang/test)) [![umind compliant](https://img.shields.io/badge/bulid-jdk1.8-blue)]((https://github.com/xk-wang/test)) [![umind compliant](https://img.shields.io/badge/ide-eclipse-yellow)]((https://github.com/xk-wang/test)) [![umind compliant](https://img.shields.io/badge/license-MIT-orange)]((https://github.com/xk-wang/test))
 
 This is the software curriculum design project of EIC, Huazhong University of Science & Technology. Indeed, this project was finished in December, 2019.  The developers of this project include Xianke Wang, Jialei Guo and Shen Guo.
 
